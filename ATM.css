@@ -1,0 +1,28 @@
+body {
+  margin: 40px;
+  border: solid 2px black;
+  max-width: 500px;
+  padding: 30px;
+  text-align: center;
+  background-color: lightskyblue;
+}
+
+#total {
+  color: brown;
+}
+
+select {
+  padding: 5px 15px;
+  background-color: darkblue;
+  color: white;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: darkblue;
+  border-radius: 10px;
+  padding: 5px 15px;
+  color: white;
+  margin-top: 10px;
+}
+
