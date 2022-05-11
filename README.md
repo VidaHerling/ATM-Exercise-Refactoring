@@ -1,6 +1,6 @@
 # ATM Exercise Refactoring
 Simple React ATM
-<img src="./atm.svg" />
+<img src="./atm.svg" max-height="100px"/>
 
 ## Description
 This simple React ATM can keep track of the account balance after deposits and withdrawals. If the amount of money intended to be withdrawn is greater than the balance, the transaction will not proceed and an alert will display.
